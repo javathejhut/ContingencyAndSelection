@@ -1,0 +1,185 @@
+>Feature chrmt
+1	85779	chromosome
+			source	SGD
+			id	chrmt
+			name	chrmt
+			dbxref	NCBI:NC_001224
+4312	4012	origin_of_replication
+			note	Mitochondrial DNA replication origin; non-essential for mitochondrial function
+			source	SGD
+			id	ORI1
+			alias	ORI1
+			name	ORI1
+			display	Mitochondrial DNA replication origin
+			dbxref	SGD:S000029667
+			gene	ORI1
+6546	8194	rRNA_gene
+			display	Ribosomal RNA of the small mitochondrial ribosomal subunit
+			dbxref	SGD:S000007287
+			name	Q0020
+			ontology_term	function values() { [native code] }
+			alias	function values() { [native code] }
+			gene	15S_RRNA
+			source	SGD
+			note	Ribosomal RNA of the small mitochondrial ribosomal subunit; MSU1 allele suppresses ochre stop mutations in mitochondrial protein-coding genes
+			id	Q0020
+12780	12510	origin_of_replication
+			gene	ORI8
+			display	Mitochondrial origin of replication
+			dbxref	SGD:S000029331
+			name	ORI8
+			alias	ORI8
+			id	ORI8
+			source	SGD
+			note	Mitochondrial origin of replication
+13818	26701	gene
+			id	Q0045
+			source	SGD
+			note	Subunit I of cytochrome c oxidase (Complex IV); Complex IV is the terminal member of the mitochondrial inner membrane electron transport chain; one of three mitochondrially-encoded subunits
+			gene	COX1
+			orf_classification	Verified
+			display	Subunit I of cytochrome c oxidase (Complex IV)
+			dbxref	SGD:S000007260
+			name	Q0045
+			ontology_term	function values() { [native code] }
+			alias	function values() { [native code] }
+27666	27812	gene
+			id	Q0080
+			source	SGD
+			note	Subunit 8 of the F0 sector of mitochondrial F1F0 ATP synthase; encoded on the mitochondrial genome; ATP8 and ATP6 mRNAs are not translated in the absence of the F1 sector of ATPase
+			gene	ATP8
+			orf_classification	Verified
+			display	Subunit 8 of the F0 sector of mitochondrial F1F0 ATP synthase
+			dbxref	SGD:S000007267
+			ontology_term	function values() { [native code] }
+			name	Q0080
+			alias	function values() { [native code] }
+28487	29266	gene
+			id	Q0085
+			source	SGD
+			note	Subunit a of the F0 sector of mitochondrial F1F0 ATP synthase; mitochondrially encoded; translation is specifically activated by Atp22p; ATP6 and ATP8 mRNAs are not translated in the absence of the F1 sector of ATPase
+			gene	ATP6
+			orf_classification	Verified
+			dbxref	SGD:S000007268
+			display	Subunit a of the F0 sector of mitochondrial F1F0 ATP synthase
+			ontology_term	function values() { [native code] }
+			name	Q0085
+			alias	function values() { [native code] }
+30220	30594	origin_of_replication
+			id	ORI7
+			source	SGD
+			note	Mitochondrial origin of replication
+			gene	ORI7
+			display	Mitochondrial origin of replication
+			dbxref	SGD:S000029673
+			name	ORI7
+			alias	ORI7
+32231	32501	origin_of_replication
+			id	ORI2
+			source	SGD
+			note	Mitochondrial origin of replication
+			gene	ORI2
+			display	Mitochondrial origin of replication
+			dbxref	SGD:S000029668
+			name	ORI2
+			alias	ORI2
+36540	43647	gene
+			id	Q0105
+			note	Cytochrome b; mitochondrially encoded subunit of the ubiquinol-cytochrome c reductase complex which includes Cobp, Rip1p, Cyt1p, Cor1p, Qcr2p, Qcr6p, Qcr7p, Qcr8p, Qcr9p, and Qcr10p
+			source	SGD
+			orf_classification	Verified
+			gene	COB
+			alias	function values() { [native code] }
+			ontology_term	function values() { [native code] }
+			name	Q0105
+			display	Cytochrome b
+			dbxref	SGD:S000007270
+45227	47927	origin_of_replication
+			gene	ORI6
+			name	ORI6
+			display	Mitochondrial origin of replication
+			dbxref	SGD:S000029672
+			alias	ORI6
+			id	ORI6
+			note	Mitochondrial origin of replication
+			source	SGD
+48901	50097	gene
+			name	Q0140
+			ontology_term	function values() { [native code] }
+			display	Mitochondrial ribosomal protein of the small subunit
+			dbxref	SGD:S000007275
+			alias	function values() { [native code] }
+			gene	VAR1
+			orf_classification	Verified
+			note	Mitochondrial ribosomal protein of the small subunit; mitochondrially-encoded; polymorphic in different strains due to variation in number of AAT (asparagine) codons; translated near the mitochondrial inner membrane; may have a role in loss of mitochondrial DNA under stress conditions
+			source	SGD
+			id	Q0140
+54840	54567	origin_of_replication
+			id	ORI3
+			source	SGD
+			note	Mitochondrial origin of replication
+			gene	ORI3
+			display	Mitochondrial origin of replication
+			dbxref	SGD:S000029669
+			name	ORI3
+			alias	ORI3
+56832	56567	origin_of_replication
+			note	Mitochondrial origin of replication
+			source	SGD
+			id	ORI4
+			name	ORI4
+			display	Mitochondrial origin of replication
+			dbxref	SGD:S000029670
+			alias	ORI4
+			gene	ORI4
+58009	62447	rRNA_gene
+			dbxref	SGD:S000007288
+			display	Mitochondrial 21S rRNA
+			name	Q0158
+			ontology_term	function values() { [native code] }
+			alias	function values() { [native code] }
+			gene	21S_RRNA
+			source	SGD
+			note	Mitochondrial 21S rRNA; intron encodes the I-SceI DNA endonuclease
+			id	Q0158
+73758	74513	gene
+			alias	function values() { [native code] }
+			ontology_term	function values() { [native code] }
+			name	Q0250
+			display	Subunit II of cytochrome c oxidase (Complex IV)
+			dbxref	SGD:S000007281
+			orf_classification	Verified
+			gene	COX2
+			note	Subunit II of cytochrome c oxidase (Complex IV); Complex IV is the terminal member of the mitochondrial inner membrane electron transport chain; one of three mitochondrially-encoded subunits
+			source	SGD
+			id	Q0250
+79213	80022	gene
+			alias	function values() { [native code] }
+			dbxref	SGD:S000007283
+			display	Subunit III of cytochrome c oxidase (Complex IV)
+			ontology_term	function values() { [native code] }
+			name	Q0275
+			orf_classification	Verified
+			gene	COX3
+			source	SGD
+			note	Subunit III of cytochrome c oxidase (Complex IV); Complex IV is the terminal member of the mitochondrial inner membrane electron transport chain; one of three mitochondrially-encoded subunits
+			id	Q0275
+82329	82600	origin_of_replication
+			id	ORI5
+			source	SGD
+			note	Mitochondrial origin of replication
+			gene	ORI5
+			dbxref	SGD:S000029671
+			display	Mitochondrial origin of replication
+			name	ORI5
+			alias	ORI5
+85295	85777	ncRNA_gene
+			source	SGD
+			note	RNA component of mitochondrial RNase P; mitochondrial RNase P also contains the protein subunit Rpm2p; RNase P removes 5' extensions from mitochondrial tRNA precursors; RPM1 is conserved in bacteria, fungi, and protozoa
+			id	Q0285
+			display	RNA component of mitochondrial RNase P
+			dbxref	SGD:S000029023
+			ontology_term	function values() { [native code] }
+			name	Q0285
+			alias	RPM1
+			gene	RPM1

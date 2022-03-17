@@ -1,0 +1,4 @@
+/media/houdini/Data/Summer_2019_exp/10T3_c_1/10T3_1_colour_1	0.20652	38.00000	184.00000
+/media/houdini/Data/Summer_2019_exp/10T3_c_1/10T3_1_colour_2	0.23438	45.00000	192.00000
+/media/houdini/Data/Summer_2019_exp/liquid_aug_19/10T3/A/10T3_1_colour_5a	0.21759	47.00000	216.00000
+/media/houdini/Data/Summer_2019_exp/liquid_aug_19/10T3/B/10T3_1_colour_2b	0.23936	45.00000	188.00000
